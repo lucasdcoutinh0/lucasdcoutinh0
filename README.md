@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<h3 align="center">Trabalhando em:</h3>
+<h3 align="center">Working on:</h3>
 
 <p align="center">
   <a href="https://github.com/lucasdcoutinh0/solid-frontend-homework">
@@ -82,5 +82,5 @@
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
 </p>
-<h5 align="center">Seu @lucasdcoutinh0</h5>
+<h5 align="center">@lucasdcoutinh0</h5>
 </details>
