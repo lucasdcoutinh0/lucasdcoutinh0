@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/seu-usuario)
+[![banner](./banner.png)](https://github.com/lucasdcoutinh0)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -59,7 +59,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdcoutinh0&repo=solid-frontend-homework&theme=tokyonight">
     </img>
   </a>
 </p>
@@ -79,21 +79,10 @@
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
-  </a>
   <a href="https://www.linkedin.com/in/seu-usuario/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
-    />
   </a>
 </p>
 <h5 align="center">Seu @</h5>
