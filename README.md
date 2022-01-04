@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/lucasdcoutinh0/lucasdcoutinh0/blob/main/banner.png"/>
+</div>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -59,26 +61,26 @@
   </a>
 </p>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">Hi, welcome to my github, my name is lucas im from Brasil, i have 20 years old and im a WebDeveloper certified by the Jhons Hopkins University. I currently have JS as the main language, but I am dedicating myself to the study of solidity </h3>
 
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://instagram.com/lucas.dcoutinho/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/lucasncoutinhoo">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/lucasdcoutinho/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">Seu @lucasdcoutinh0</h5>
 </details>
