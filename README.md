@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/lucasdcoutinh0/lucasdcoutinh0/blob/main/banner.png"/>
+<img src="https://github.com/lucasdcoutinh0/lucasdcoutinh0/blob/main/Logo.png"/>
 </div>
 
   <p align="center">
