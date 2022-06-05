@@ -52,7 +52,7 @@
 <h3 align="center">Working on:</h3>
 
 <p align="center">
-  <a href="https://github.com/lucasdcoutinh0/solid-frontend-homework">
+  <a href="https://github.com/lucasdcoutinh0/ethers-decode-transactions">
     <img
       align="center"
       height="120em"
