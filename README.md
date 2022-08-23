@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/lucasdcoutinh0/lucasdcoutinh0/blob/main/Logo.png"/>
-</div>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
