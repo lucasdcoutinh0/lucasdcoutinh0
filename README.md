@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<h3 align="center">Hi, welcome to my github, my name is lucas im from Brasil, i have 20 years old and im a WebDeveloper certified by the Jhons Hopkins University. I currently have JS as the main language, but I am dedicating myself to the study of solidity </h3>
+<h3 align="center">Hi, welcome to my github, my name is lucas im from Brasil, i have 20 years old and im a FullStack and BlockChain Developer certified by the Jhons Hopkins University. I currently have JS and TS as my main languages. Also Im studing Data Base and Artificial Intelligence</h3>
 
 <p align="center">
   <a href="https://instagram.com/lucas.dcoutinho/">
