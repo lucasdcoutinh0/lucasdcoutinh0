@@ -46,18 +46,6 @@
   </a>
 </p>
 
-<h3 align="center">Working on:</h3>
-
-<p align="center">
-  <a href="https://github.com/lucasdcoutinh0/ethers-decode-transactions">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdcoutinh0&repo=solid-frontend-homework&theme=tokyonight">
-    </img>
-  </a>
-</p>
-
 <h3 align="center">Hi, welcome to my github, my name is lucas im from Brasil, i have 20 years old and im a WebDeveloper certified by the Jhons Hopkins University. I currently have JS as the main language, but I am dedicating myself to the study of solidity </h3>
 
 <p align="center">
